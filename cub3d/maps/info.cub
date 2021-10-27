@@ -1,0 +1,11 @@
+NO      ./maps/texture/wall_r.xpm
+S ./maps/texture/rock.xpm
+EA ./maps/texture/wall_g.xpm
+SO      ./maps/texture/wall_s.xpm
+WE ./maps/texture/wall_y.xpm
+F 222, 184, 135    
+C     135,      206 ,   235    
+R  760 540
+11111111
+110200E01111
+11111111111
